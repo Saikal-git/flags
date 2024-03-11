@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.user {
+  margin-top: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 60px;
+}
+
+
+
+
+.card {
+  width: 10px;
+}
