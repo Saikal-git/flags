@@ -6,7 +6,7 @@ a {
   text-decoration: none;
 }
 .container {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -16,12 +16,24 @@ a {
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: center;
-  gap: 60px;
+  gap: 40px;
 }
-
-
-
 
 .card {
   width: 10px;
+}
+
+.p {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 280px;
+}
+
+.block {
+  border-radius: 15px;
+  background-color: antiquewhite;
+  border: none;
 }
